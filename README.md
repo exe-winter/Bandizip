@@ -217,4 +217,4 @@ Bandizip is offered as a complete free version, providing all features and updat
 Take your file compression to the next level with Bandizip — **download now and experience the difference!**
 
 ---
-**Last updated:** 2026-10-13 20:01:12 UTC
+**Last updated:** 2026-10-14 00:04:48 UTC
